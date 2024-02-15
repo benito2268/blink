@@ -2,6 +2,8 @@
 #include<stdlib.h>
 #include"linkerr.h"
 
+//this commit added as a test :)
+
 void link_err(int err_code, const char *msg_arg) 
 {
 	switch(err_code)
